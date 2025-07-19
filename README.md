@@ -16,17 +16,23 @@ Here are some ideas to get you started:
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only" width="55%" />
-  
-  </br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=github_dark&hide_border=true#gh-dark-mode-only" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true#gh-light-mode-only" width="50%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" width="36%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" width="36%" />
-  </br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="55%" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true" width="50%" alt="GitHub Streak Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" alt="GitHub Top Langs" />
+  </picture>
 </div>
 
 <!-- Snake Animation -->

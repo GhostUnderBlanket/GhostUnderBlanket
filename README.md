@@ -1,9 +1,9 @@
 <!-- Intro -->
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey.)](https://git.io/typing-svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0a3069&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey.)](https://git.io/typing-svg" />
-      <img alt="github contribution grid snake animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0a3069&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey.)](https://git.io/typing-svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey." />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0a3069&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey." />
+      <img alt="github contribution grid snake animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0a3069&center=true&vCenter=true&width=670&lines=Hey+there%2C+world!+I'm+BlanketGhost.;This+GitHub+dev+log+is+where+I+share+my+creations.;Here+you'll+find+what+I'm+learning+on+my+journey." />
     </picture>
 </div>
 

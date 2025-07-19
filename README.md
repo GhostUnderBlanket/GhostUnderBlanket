@@ -42,19 +42,19 @@ Wanna peek at my dev stats? Here ya go
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="33%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=github_dark&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true" width="39%" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=default&hide_border=true" width="38%" alt="GitHub Streak Stats" />
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="27%" alt="GitHub Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="26%" alt="GitHub Top Langs" />
   </picture>
 </div>
 

@@ -1,6 +1,5 @@
-## Hi there 👋
+<!--  ## Hi there 👋
 
-<!--
 **GhostUnderBlanket/GhostUnderBlanket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostUnderBlanket&theme=github_dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUnderBlanket&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/GhostUnderBlanket/GhostUnderBlanket/blob/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github.com/GhostUnderBlanket/GhostUnderBlanket/blob/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://github.com/GhostUnderBlanket/GhostUnderBlanket/blob/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+</div>
+
+
+

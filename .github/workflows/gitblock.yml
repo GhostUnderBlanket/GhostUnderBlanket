@@ -1,4 +1,4 @@
-name: generate git-block
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -32,5 +32,5 @@ jobs:
           else
             git commit -m "generated 3D contrib"
             # Push to the 'output' branch
-            git push origin HEAD:output
+            git push origin HEAD:git-block
           fi

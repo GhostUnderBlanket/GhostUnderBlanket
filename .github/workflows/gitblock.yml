@@ -1,4 +1,4 @@
-name: generate giblock
+name: generate git-block
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
